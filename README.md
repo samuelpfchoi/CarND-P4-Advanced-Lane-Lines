@@ -106,6 +106,8 @@ I did this in Measuring Curvature & Position section of  [the notebook](https://
 
 Here's a [link to my video result](./output_project_video.mp4)
 
+or views the result in youtube
+
 <p align="center">
     <a href="https://www.youtube.com/watch?v=c5uK481d7Is">
         <img src="https://img.youtube.com/vi/c5uK481d7Is/0.jpg" alt="video output">
@@ -120,4 +122,5 @@ Problems / issues faced in the implementation of this project:
 * difficult to varify the correctness of curvature measurement & vechicle position
 
 Potential problem:
+
 This pipline works well in the project video but it still need more advanced way to handle different road and light conditions, e.g. in rainly day or glare from the sun. Maybe machine learning can be used to make the pipline more robustness.
